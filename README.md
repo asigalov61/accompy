@@ -30,7 +30,7 @@ print(f"Generated: {audio}")  # -> /tmp/xxx.wav
 pip install accompy  # Coming soon to PyPI
 
 # Or install from source:
-git clone https://github.com/yourname/accompy
+git clone https://github.com/thorwhalen/accompy
 pip install -e accompy
 ```
 
